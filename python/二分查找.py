@@ -26,7 +26,7 @@ def BinarySearch_Recursive(array, item):
 
 
 if __name__ == "__main__":
-    l = [1, 3, 7, 4]
+    l = [1, 3, 4, 7]
     print(BinarySearch(l, 3))
     print(BinarySearch_Recursive(l, 3))
 
